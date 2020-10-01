@@ -59,7 +59,7 @@
 
 #home{
     display: flex;
-    height: 530px;
+    height: 600px;
     flex-direction: column;
     /* padding: 3px 26px; */
     justify-content: center;
